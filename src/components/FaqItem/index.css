@@ -1,0 +1,38 @@
+/* Write your code here. */
+.each-li {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d7dae6;
+  margin: 10px;
+  border-radius: 10px;
+}
+.each-li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo-image {
+  height: 45%;
+  width: 45%;
+  margin: 20px;
+}
+.question {
+  margin-left: 13px;
+}
+.logo-button {
+  border-style: none;
+  background-color: transparent;
+}
+.hori {
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #e4e7eb;
+}
+.para {
+  color: #9aa5b1;
+  margin-left: 20px;
+}
+.question 
+{
+  color:#52606d;
+}
